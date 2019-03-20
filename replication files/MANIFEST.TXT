@@ -1,0 +1,8 @@
+code_2_selection_model_tables.R (text/plain; charset=US-ASCII) 4133 bytes.
+Article for GEC (political economy of disaster damage).dta (application/x-stata) 304636 bytes.
+code_1_data_cleaning.R (text/plain; charset=US-ASCII) 8187 bytes.
+code_3_graphs.R (text/plain; charset=US-ASCII) 9668 bytes.
+paper.pdf (application/pdf) 716465 bytes.
+ReadMe.txt (text/plain) 1699 bytes.
+UNdata_GDP.csv (text/csv) 297328 bytes.
+UNdata_GDP_Per_Capita.csv (text/csv) 630246 bytes.
